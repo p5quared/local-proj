@@ -1,0 +1,13 @@
+footer {
+    display: flex;
+    height: 4rem;
+    width: 100vw;
+    align-items: center;
+    padding-left: 5vw;
+    gap: 5vw;
+    position: fixed;
+    bottom: 0;
+
+    color: #fff3ef;
+    background-color: #020381;
+}
