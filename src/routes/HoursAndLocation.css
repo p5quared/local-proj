@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Poppins-Thin';
+    src: url('../assets/Poppins-Thin.ttf');
+}
+@font-face {
+	font-family: 'InriaSerif-Regular';
+	src: url('../assets/Inria_Serif/InriaSerif-Regular.ttf');
+}
+@font-face {
+    font-family: 'InriaSerif-Bold';
+    src: url(../assets/Inria_Serif/InriaSerif-Bold.ttf);
+}
+.content {
+    padding-top: 5vh;
+}
+.page-wrapper {
+    height: 100vh;
+}
+.hours-location {
+    font-family: 'Poppins-Thin';
+    font-size: 2.5rem;
+    text-align: center;
+
+    padding: 2.5rem;
+}
+.info-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.25rem;
+    gap: 2rem;
+}
+
+.info-wrapper > *  {
+    text-align: center;
+    font-family: 'InriaSerif-Regular';
+
+}
+.bold {
+    font-family: 'InriaSerif-Bold';
+    font-weight: bold;
+}
+
+.address, .phone {
+    text-decoration: underline !important;
+}
+
+.static-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}

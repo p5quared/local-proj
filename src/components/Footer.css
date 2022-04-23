@@ -4,8 +4,8 @@ footer {
     width: 100vw;
     align-items: center;
     padding-left: 5vw;
+    margin-top: 5rem;
     gap: 5vw;
-    position: fixed;
     bottom: 0;
 
     color: #fff3ef;
