@@ -1,0 +1,23 @@
+p {
+    font-family: "InriaSerif-Regular";
+    line-height: 1.3rem;
+}
+
+.story-wrapper {
+display: flex;    
+align-items: center;
+}
+.story-wrapper-entire {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    width: 66vw;
+    padding-inline: 20vw;
+}
+.story-logo {
+    width: 250px;
+    height: 250px;
+
+    padding: 0 1rem 1rem 4rem;
+}

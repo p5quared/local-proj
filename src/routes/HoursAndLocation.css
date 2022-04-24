@@ -11,17 +11,38 @@
     src: url(../assets/Inria_Serif/InriaSerif-Bold.ttf);
 }
 .content {
-    padding-top: 5vh;
+    padding-top: 2vh;
+    padding-bottom: 8vh;
+    max-width: fit-content;
+    margin-top: 5vw;
+
+    background-color:rgba(33, 39, 136, .1); 
+    box-shadow: 0.5px 0.5px 10px 2px black;
 }
 .page-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     height: 100vh;
 }
 .hours-location {
     font-family: 'Poppins-Thin';
-    font-size: 2.5rem;
+    font-size: 3.5rem;
     text-align: center;
 
     padding: 2.5rem;
+}
+.hours-bg {
+    position: absolute;
+    z-index: -1;
+    justify-self: center;
+    align-self: center;
+    min-width: 66%;
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+
+    opacity: 10%;
 }
 .info-wrapper {
     display: flex;

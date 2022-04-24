@@ -1,12 +1,17 @@
 import React from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import bg_img from "../assets/saranac\ lake\ map.jpeg"
 import "./HoursAndLocation.css";
 export default function HoursAndLocation() {
     return (
         <>
         <div className="page-wrapper">
             <Header />
+            <img
+            className="hours-bg"
+            src={bg_img}
+            alt="background image of map"/>
             <div className="content">
             <h1 className="hours-location">HOURS & LOCATION</h1>
             <div className="info-wrapper">
