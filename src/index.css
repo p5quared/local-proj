@@ -112,6 +112,9 @@ a, a:link, a:visited, a:focus, a:hover, a:active {
 	0%{
 		opacity: 100%;
 	}
+	33% {
+		opacity: 100%;
+	}
 	100%{
 		opacity: 0%;
 	}
@@ -129,7 +132,7 @@ a, a:link, a:visited, a:focus, a:hover, a:active {
 	justify-content: center;
 	pointer-events: none;
 
-	animation: heroIntro 4s;
+	animation: heroIntro 5s;
 	opacity: 0%;
 }
 /*
