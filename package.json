@@ -1,6 +1,6 @@
 {
   "name": "local-proj",
-  "version": "0.1.0",
+  "version": "1.0",
   "private": true,
   "homepage": "https://p5quared.github.io/local-proj",
   "dependencies": {
