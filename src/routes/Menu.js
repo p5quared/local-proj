@@ -7,13 +7,13 @@ export default function Menu(){
 
 
     return (
-        <>
-        <div className="page-wrapper">
-            <Header />
-        <h1 className="hours-location">Menu</h1>
-            <MenuSelector />
-        </div>
+        <div className="menu-page">
+            <div className="page-wrapper">
+                <Header />
+                <h1 className="hours-location">Menu</h1>
+                <MenuSelector />
+            </div>
             <Footer />
-        </>
+        </div>
     )
 }

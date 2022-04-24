@@ -101,6 +101,7 @@ body {
     background-color: lightpink;
 	justify-self: center;
 	align-self: center;
+    box-shadow: 0px 0.5px 2px 0.5px grey;
 }
 
 a, a:link, a:visited, a:focus, a:hover, a:active {
@@ -134,6 +135,11 @@ a, a:link, a:visited, a:focus, a:hover, a:active {
 
 	animation: heroIntro 5s;
 	opacity: 0%;
+}
+
+.menu-page {
+	display: flex;
+	flex-direction: column;
 }
 /*
 Colors Reference:
