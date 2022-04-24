@@ -69,7 +69,7 @@ One of the most important features to implement in my opinion would be online or
 
 #### "Use the buttons below for weekly hours, menus and specials."
 
-This phrase is an "<h1></h1>" on the real site.... 
+This phrase is an "h1" on the real site.... 
 If you have to explain on your website how to use your website there is something drastically wrong with your design.
 
 Underneath it also states that "Pick-up, curbside delivery and dine in will be available.  Daily updates are posted on our Facebook page".
