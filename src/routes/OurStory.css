@@ -1,0 +1,34 @@
+p {
+    font-family: "InriaSerif-Regular";
+    line-height: 1.5rem;
+    font-size: 1.1rem;
+}
+.story-title {
+    font-size: 1.5rem;
+    font-family: 'InriaSerif-Bold';
+}
+.story-subtitle {
+	font-family: 'InriaSerif-LightItalic';
+    font-size: 1.25rem;
+}
+
+.story-wrapper {
+display: flex;    
+align-items: center;
+}
+.story-wrapper-entire {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    width: 55vw;
+    padding-inline: 20vw;
+    /*for the life of me, could not solve mysterious margin-right problem*/
+    margin-left: 2.2vw;
+}
+.story-logo {
+    width: 250px;
+    height: 250px;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}

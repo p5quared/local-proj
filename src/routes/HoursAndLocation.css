@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'Poppins-Thin';
+    src: url('../assets/Poppins-Thin.ttf');
+}
+@font-face {
+	font-family: 'InriaSerif-Regular';
+	src: url('../assets/Inria_Serif/InriaSerif-Regular.ttf');
+}
+@font-face {
+    font-family: 'InriaSerif-Bold';
+    src: url(../assets/Inria_Serif/InriaSerif-Bold.ttf);
+}
+.content {
+    padding-top: 2vh;
+    padding-bottom: 8vh;
+    max-width: fit-content;
+    margin-top: 5vw;
+
+    background-color:rgba(33, 39, 136, .1); 
+    box-shadow: 0.5px 0.5px 10px 2px black;
+}
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    height: auto;
+}
+.hours-location {
+    font-family: 'Poppins-Thin';
+    font-size: 3.5rem;
+    text-align: center;
+
+    padding: 2.5rem;
+}
+.hours-bg {
+    position: absolute;
+    z-index: -1;
+    justify-self: center;
+    align-self: center;
+    min-width: 66%;
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+
+    opacity: 10%;
+}
+.info-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.25rem;
+    gap: 2rem;
+}
+
+.info-wrapper > *  {
+    text-align: center;
+    font-family: 'InriaSerif-Regular';
+
+}
+.bold {
+    font-family: 'InriaSerif-Bold';
+    font-weight: bold;
+}
+
+.address, .phone {
+    text-decoration: underline !important;
+}
+
+.static-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
