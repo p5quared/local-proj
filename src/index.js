@@ -13,7 +13,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Routes>
-      <Route path="/" element={<App />}/>
+      <Route exact path="/" element={<App />}/>
       <Route path="menu" element={<Menu />}/>
       <Route path="hours-and-location" element={<HoursAndLocation />}/>
       <Route path="our-story" element={<OurStory />}/>
