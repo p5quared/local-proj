@@ -23,6 +23,13 @@ This is one of my first projects created using react.
 I used useState() on MenuSelector.js so users can click and choose the correct menu to display without reloading the page. 
 I am not certain whether this was the correct way to implement this.
 
+### Github Pages
+
+Yea yea, this might not count as a tool but I'm counting it since I've never used it before.
+-added dependency packages to package.json
+-added deploy scripts to package.json
+-git remote add yadda yadda ... npm run deploy ... add . commit ... push origin master
+
 ## But Peter, what about 'X'???
 
 Of course it's not perfect, but here are some of the reasons I have drastically altered things.
