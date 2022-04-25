@@ -44,7 +44,7 @@ Same thing with the food, is your cafe's _avocado toast_ really that original th
 
 I think photos can be relevant, especially at restaurants that are serving unique entrees that people might not recognize by name or by ingredient. Also, at high-end restaurants, customers may need more information to push them to reserve, so may be more relevant then. Anytime I've been somewhere and wanted to go to a cafe, I look up "cafe near me" on Apple Maps and basically go to the first option. For those whom photos are a serious matter, they should go on the business profile on Google or Apple and Yelp, or individuals might visit social media.
 
-As for "soul", I think that a (decent) line vector illustration on the homepage and warm colors are more than enough. I may just be cold and heartless, but seeing pictures of smiling and laughing faces doesn't really attract me to a business in most cases.
+As for "soul", I think that a (decent) line vector illustration on the homepage and warm colors are more than enough. I may just be cold and heartless, but seeing pictures of smiling and laughing faces doesn't particularly attract me to a business in most cases.
 
 #### Where's the Contact Page/Form????
 
@@ -83,6 +83,6 @@ Underneath it also states that "Pick-up, curbside delivery and dine in will be a
 The first part of that statement is a bit vage... like will be available when? Someday? Today?
 
 Also don't lie on your site... delete "daily".
-In fact, if you really wanted to improve on the idea of schedule changes, you should update things on your business profile on Google and use site <alerts> to notify site visitors of updates.
+In fact, if you really wanted to improve on the idea of schedule changes, you should update things on your business profile on Google. Additionally, I think using alerts on the webpage is a better, albeit more time consuming, practice.
 
 ##### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
