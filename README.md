@@ -36,7 +36,7 @@ Of course it's not perfect, but here are some of the reasons I have drastically 
 
 #### Less Images?? Where's the SOUL???
 
-Images are slow. I know everybody has fast internet these days, but most people stumbling upon a cafe site are probably on mobile phones (yes I am aware that it now sounds hypocritical that I only designed for desktop).
+Images are slow. I know everybody has fast internet these days, but most people stumbling upon a cafe site are probably on mobile phones (yes I am aware that it now sounds hypocritical that I only designed for desktop). Without a better understanding of software wizardy like asynchronous loading, it makes more sense to use a image-light design.
 
 Also, does a cafe really need images?
 I know that some cafes love to photograph their lattes as though their baristas' _hearts, ferns, and tulips_ are the works of a reincarnated michaelangelo, but I really don't care personally when I browse, and I highly doubt that images of lattes are going to increase site conversions at a cafe.
