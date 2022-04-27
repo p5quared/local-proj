@@ -64,9 +64,9 @@ I would also probably take more care to developing a better gradient background 
 
 #### Reformatting
 
-The menus simply have to go. The font is terribly unreadable; the titles of menu items should be boldened at least, also increasing the indentation or using something like bullets might help discern titles from descriptions.
+The menus on the original site simply have to go. The font is terribly unreadable; the titles of menu items should be boldened at least, also increasing the indentation or using something like bullets might help discern titles from descriptions.
 
-Ultimately, the menu should also be converted to plain text and displayed as html on the site. This would defintily result in some large speed increases, and make it easier to implement a responsive design (not to mention, easier to edit single menu items than to reupload new images for tiny menu changes).
+Ultimately, the menus should also be converted to plain text and displayed as html on the site. This would defintily result in some large speed increases, and make it easier to implement a responsive design (not to mention, easier to edit single menu items than to reupload new images for tiny menu changes).
 
 I want to add that the fact that menus are only accesible from the homepage and not any of the other pages is a little bit of a waste. Does "Our Story" and "Contact" really present more importance than your cafe's menu?? You also must scroll down on the homepage to find the menu links on my browser... Again, important information sould be immediately in view for users.
 
